@@ -1,7 +1,7 @@
 {
   "version": "0.5.4.4",
   "build": 89,
-  "giteeApk": "https://gitee.com/koiyalkx/deadline_app_update/raw/master/deadline-v0.5.4.4-build89.apk",
+  "giteeApk": "https://gitee.com/koiyalkx/deadline_app_update/releases/download/v0.5.4.4-build89/deadline-v0.5.4.4-build89.apk",
   "sha256": "c01215166ebe0b352dea54e64aefcda7d16a3e4d238405d9ee89f39c491592d5",
   "size": 56446118,
   "forceUpdate": false,
