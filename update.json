@@ -1,0 +1,13 @@
+{
+  "version": "0.5.4.4",
+  "build": 89,
+  "giteeApk": "https://gitee.com/koiyalkx/deadline_app_update/raw/master/deadline-v0.5.4.4-build89.apk",
+  "sha256": "c01215166ebe0b352dea54e64aefcda7d16a3e4d238405d9ee89f39c491592d5",
+  "size": 56446118,
+  "forceUpdate": false,
+  "notes": [
+    "修复更新检查返回提示，避免仓库暂无配置时直接显示 404",
+    "修复深色模式下底部提示文字颜色过暗",
+    "本次为构建号 89 的更新测试"
+  ]
+}
