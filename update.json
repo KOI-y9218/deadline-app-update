@@ -1,13 +1,15 @@
 {
-  "version": "0.5.4.4",
-  "build": 89,
-  "giteeApk": "https://gitee.com/koiyalkx/deadline_app_update/releases/download/v0.5.4.4-build89/deadline-v0.5.4.4-build89.apk",
-  "sha256": "9efaf897329c134f8c3b76b6a01ec700df2ce1211a2522a19a32da25226bec37",
-  "size": 56446118,
+  "version": "0.5.5",
+  "build": 90,
+  "giteeApk": "https://gitee.com/koiyalkx/deadline_app_update/releases/download/v0.5.5/deadline-v0.5.5.apk",
+  "githubApk": "https://github.com/KOI-y9218/deadline-app/releases/download/v0.5.5/deadline-v0.5.5.apk",
+  "sha256": "9dccc040e4f37ee3159f59ea4a3e18715570c7a434c23f0bf07ebeefd759258c",
+  "size": 56790370,
   "forceUpdate": false,
   "notes": [
-    "修复更新检查返回提示，避免仓库暂无配置时直接显示 404",
-    "修复深色模式下底部提示文字颜色过暗",
-    "本次为构建号 89 的更新测试"
+    "升级应用版本至 0.5.5，构建号 90",
+    "优化应用内更新页的半屏显示、背景遮罩和触摸交互",
+    "修复更新下载后的 APK 安装路径问题",
+    "统一深色模式下更新提示文字与底栏的显示效果"
   ]
 }
