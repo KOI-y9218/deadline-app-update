@@ -1,13 +1,12 @@
 {
-  "version": "0.5.5.2-beta2",
-  "build": 93,
-  "giteeApk": "https://gitee.com/koiyalkx/deadline_app_update/releases/download/v0.5.5.2-beta2/deadline-v0.5.5.2-beta2.apk",
-  "githubApk": "https://github.com/KOI-y9218/deadline-app/releases/download/v0.5.5.2-beta2/deadline-v0.5.5.2-beta2.apk",
-  "sha256": "ba3329e535a4824e214e337e08d78e8154322d4416d289b9217c592093e60a7e",
+  "version": "0.5.5.2-beta3",
+  "build": 94,
+  "giteeApk": "https://gitee.com/koiyalkx/deadline_app_update/releases/download/v0.5.5.2-beta3/deadline-v0.5.5.2-beta3.apk",
+  "githubApk": "https://github.com/KOI-y9218/deadline-app/releases/download/v0.5.5.2-beta3/deadline-v0.5.5.2-beta3.apk",
+  "sha256": "c79738030ed1e7e0d635363a4a12002faa6c0848efb9aa088043cc5ecd1c7136",
   "size": 56790774,
   "forceUpdate": false,
   "notes": [
-    "统一启动预览与真实自动更新的半屏展开、关闭及底栏隐藏恢复动画时序",
-    "修复更新弹窗预览入口未同步底栏状态的问题"
+    "优化更新半屏弹出时底栏的淡出时机，使底栏与半屏入场同步"
   ]
 }
