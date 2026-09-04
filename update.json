@@ -1,14 +1,15 @@
 {
-  "version": "0.5.5",
-  "build": 90,
-  "giteeApk": "https://gitee.com/koiyalkx/deadline_app_update/releases/download/v0.5.5/deadline-v0.5.5.apk",
-  "githubApk": "https://github.com/KOI-y9218/deadline-app/releases/download/v0.5.5/deadline-v0.5.5.apk",
-  "sha256": "9dccc040e4f37ee3159f59ea4a3e18715570c7a434c23f0bf07ebeefd759258c",
-  "size": 56790370,
+  "version": "0.5.5.1",
+  "build": 91,
+  "giteeApk": "https://gitee.com/koiyalkx/deadline_app_update/releases/download/v0.5.5.1/deadline-v0.5.5.1.apk",
+  "githubApk": "https://github.com/KOI-y9218/deadline-app/releases/download/v0.5.5.1/deadline-v0.5.5.1.apk",
+  "sha256": "5ef588d6edb34f9ceaf45b728ee1d2ac5908b530d6d01db7198abe076ba6cfa9",
+  "size": 56790770,
   "forceUpdate": false,
   "notes": [
-    "优化应用内更新页的半屏显示、背景遮罩和触摸交互",
-    "修复更新下载后的 APK 安装路径问题",
-    "统一深色模式下更新提示文字与底栏的显示效果"
+    "增加正式版与 Beta 测试版更新通道",
+    "增加更新弹窗预览测试工具，可在设置中安排下次启动预览",
+    "优化预览更新弹窗的专属说明，隐藏版本号与更新日志",
+    "修正后台保活设置中的“无障碍”文字"
   ]
 }
