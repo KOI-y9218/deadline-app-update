@@ -1,0 +1,14 @@
+{
+  "version": "0.5.5.2-beta1",
+  "build": 92,
+  "giteeApk": "https://gitee.com/koiyalkx/deadline_app_update/releases/download/v0.5.5.2-beta1/deadline-v0.5.5.2-beta1.apk",
+  "githubApk": "https://github.com/KOI-y9218/deadline-app/releases/download/v0.5.5.2-beta1/deadline-v0.5.5.2-beta1.apk",
+  "sha256": "44e21e62bee880dd69ea08eef8df1bb63eb42f041daa2123cd74d1e1a9b6226a",
+  "size": 56790774,
+  "forceUpdate": false,
+  "notes": [
+    "优化更新页面半屏展开与关闭动画、底栏隐藏与恢复时机及触摸屏蔽",
+    "增加正式版与 Beta 测试版更新通道和更新弹窗预览测试工具",
+    "修正后台保活设置中的“无障碍”文字"
+  ]
+}
