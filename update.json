@@ -1,15 +1,16 @@
 {
-  "version": "0.5.5.1",
-  "build": 91,
-  "giteeApk": "https://gitee.com/koiyalkx/deadline_app_update/releases/download/v0.5.5.1/deadline-v0.5.5.1.apk",
-  "githubApk": "https://github.com/KOI-y9218/deadline-app/releases/download/v0.5.5.1/deadline-v0.5.5.1.apk",
-  "sha256": "5ef588d6edb34f9ceaf45b728ee1d2ac5908b530d6d01db7198abe076ba6cfa9",
+  "version": "0.5.5.2",
+  "build": 95,
+  "giteeApk": "https://gitee.com/koiyalkx/deadline_app_update/releases/download/v0.5.5.2/deadline-v0.5.5.2.apk",
+  "githubApk": "https://github.com/KOI-y9218/deadline-app/releases/download/v0.5.5.2/deadline-v0.5.5.2.apk",
+  "sha256": "5a8be7b5dc271980a18b1748adc14a47b8be9ceba6059cfadcc24c71cc862245",
   "size": 56790770,
   "forceUpdate": false,
   "notes": [
-    "增加正式版与 Beta 测试版更新通道",
-    "增加更新弹窗预览测试工具，可在设置中安排下次启动预览",
-    "优化预览更新弹窗的专属说明，隐藏版本号与更新日志",
+    "优化更新半屏展开与关闭动画及底栏隐藏、恢复时机",
+    "统一自动更新与弹窗预览的交互、触摸处理和状态同步",
+    "修复更新半屏弹出时底栏淡出不同步问题",
+    "完善正式版与 Beta 更新通道及弹窗预览测试工具",
     "修正后台保活设置中的“无障碍”文字"
   ]
 }
