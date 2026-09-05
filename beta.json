@@ -1,15 +1,14 @@
 {
-  "version": "0.5.6-beta1",
-  "build": 96,
-  "giteeApk": "https://gitee.com/koiyalkx/deadline_app_update/releases/download/v0.5.6-beta1/deadline-v0.5.6-beta1.apk",
-  "githubApk": "https://github.com/KOI-y9218/deadline-app/releases/download/v0.5.6-beta1/deadline-v0.5.6-beta1.apk",
-  "sha256": "595772f82cb0c04785cf13c17af22b8327ec8a5089a725e0a9b47ec75912fe17",
-  "size": 56912147,
+  "version": "0.5.6.1-beta1",
+  "build": 98,
+  "giteeApk": "https://gitee.com/koiyalkx/deadline_app_update/releases/download/v0.5.6.1-beta1/deadline-v0.5.6.1-beta1.apk",
+  "githubApk": "https://github.com/KOI-y9218/deadline-app/releases/download/v0.5.6.1-beta1/deadline-v0.5.6.1-beta1.apk",
+  "sha256": "665336510613857176531AFCF8CC4833EDDFD9C042BD3EF7F88003553933764E",
+  "size": 56944919,
   "forceUpdate": false,
   "notes": [
-    "完善后台更新下载、断点续传、校验与安装状态恢复",
-    "接入 Android 官方实时更新进度通知",
-    "统一小米任务岛倒计时、计时器和逾时显示单位",
-    "修复 Release 构建启动时的后台更新初始化问题"
+    "优化设置页、任务表单和统计页的转场与渲染性能",
+    "复用静态背景缓存、任务表单帧快照和统计数据快照，减少转场期间重复绘制",
+    "统一半屏任务表单保存、删除后的退场动画、原生栏位同步、触摸屏蔽与恢复时序"
   ]
 }
