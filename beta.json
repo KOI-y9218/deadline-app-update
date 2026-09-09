@@ -1,14 +1,13 @@
 {
-  "version": "0.5.6.1-beta1",
-  "build": 99,
-  "giteeApk": "https://gitee.com/koiyalkx/deadline_app_update/releases/download/v0.5.6.1-beta1/deadline-v0.5.6.1-beta1.apk",
-  "githubApk": "https://github.com/KOI-y9218/deadline-app/releases/download/v0.5.6.1-beta1/deadline-v0.5.6.1-beta1.apk",
-  "sha256": "CEDB05F912EF8EC96DA2C0143DCB8584EAA759ECECE891E744D068CC42CE17E8",
-  "size": 56944919,
+  "version": "0.5.6.1-beta2",
+  "build": 100,
+  "giteeApk": "https://gitee.com/koiyalkx/deadline_app_update/releases/download/v0.5.6.1-beta2/deadline-v0.5.6.1-beta2.apk",
+  "githubApk": "https://github.com/KOI-y9218/deadline-app/releases/download/v0.5.6.1-beta2/deadline-v0.5.6.1-beta2.apk",
+  "sha256": "AAFFE950DE977527B10341C9963A3D7C241F546924367FBBFB62B496C4838074",
+  "size": 56961303,
   "forceUpdate": false,
   "notes": [
-    "优化设置页、任务表单和统计页的转场与渲染性能",
-    "复用静态背景缓存、任务表单帧快照和统计数据快照，减少转场期间重复绘制",
-    "统一半屏任务表单保存、删除后的退场动画、原生栏位同步、触摸屏蔽与恢复时序"
+    "优化主页、日历和统计页切换时视图栏与分类栏的出现时机，减少抢跑、补显和瞬移感",
+    "按页面转场进度同步原生栏位布局、淡入和触摸状态，保持模块切换过程一致"
   ]
 }
