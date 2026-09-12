@@ -1,13 +1,13 @@
 {
-  "version": "0.5.6.1-beta3",
-  "build": 101,
-  "giteeApk": "https://gitee.com/koiyalkx/deadline_app_update/releases/download/v0.5.6.1-beta3/deadline-v0.5.6.1-beta3.apk",
-  "githubApk": "https://github.com/KOI-y9218/deadline-app/releases/download/v0.5.6.1-beta3/deadline-v0.5.6.1-beta3.apk",
-  "sha256": "946cf45abefa9ef164483b18093c19e987589c1535f776617509037a0266f90d",
-  "size": 56961299,
+  "version": "0.5.6.1-beta4",
+  "build": 102,
+  "giteeApk": "https://gitee.com/koiyalkx/deadline_app_update/releases/download/v0.5.6.1-beta4/deadline-v0.5.6.1-beta4.apk",
+  "githubApk": "https://github.com/KOI-y9218/deadline-app/releases/download/v0.5.6.1-beta4/deadline-v0.5.6.1-beta4.apk",
+  "sha256": "8bab13ff9d764abf59772861147431444e2afb00be10839f281c94c6ec762c1d",
+  "size": 56961303,
   "forceUpdate": false,
   "notes": [
-    "修复新建任务页面退出后视图栏和分类栏未及时恢复的问题",
-    "保持原生栏位槽位挂载并按转场进度控制显隐，修复旧的 Flutter 可见快照覆盖原生淡入淡出目标导致的闪烁"
+    "将日视图日期标题切换调整为横向推入并错开淡出、淡入，减少新旧日期文字重叠",
+    "将任务区域改为可跟手分页，左右拖动时任务内容和添加任务按钮同步移动，松手后吸附到目标日期"
   ]
 }
