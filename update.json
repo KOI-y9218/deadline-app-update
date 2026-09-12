@@ -1,16 +1,15 @@
 {
-  "version": "0.5.5.2",
-  "build": 95,
-  "giteeApk": "https://gitee.com/koiyalkx/deadline_app_update/releases/download/v0.5.5.2/deadline-v0.5.5.2.apk",
-  "githubApk": "https://github.com/KOI-y9218/deadline-app/releases/download/v0.5.5.2/deadline-v0.5.5.2.apk",
-  "sha256": "5a8be7b5dc271980a18b1748adc14a47b8be9ceba6059cfadcc24c71cc862245",
-  "size": 56790770,
+  "version": "0.5.6.1",
+  "build": 103,
+  "giteeApk": "https://gitee.com/koiyalkx/deadline_app_update/releases/download/v0.5.6.1/deadline-v0.5.6.1.apk",
+  "githubApk": "https://github.com/KOI-y9218/deadline-app/releases/download/v0.5.6.1/deadline-v0.5.6.1.apk",
+  "sha256": "86a639def335da0a608a9bc851402998f9379ee1fcf0b5e5aa9f781efe9286b2",
+  "size": 56961299,
   "forceUpdate": false,
   "notes": [
-    "优化更新半屏展开与关闭动画及底栏隐藏、恢复时机",
-    "统一自动更新与弹窗预览的交互、触摸处理和状态同步",
-    "修复更新半屏弹出时底栏淡出不同步问题",
-    "完善正式版与 Beta 更新通道及弹窗预览测试工具",
-    "修正后台保活设置中的“无障碍”文字"
+    "优化设置页、任务表单和统计页的转场与渲染性能，复用静态背景、任务表单帧快照和统计数据快照",
+    "统一半屏任务表单保存、删除后的退场动画、原生栏位同步、触摸屏蔽与恢复时序；优化主页、日历和统计页切换时视图栏与分类栏的出现时机，修复退出任务页面后的栏位恢复和闪烁",
+    "优化日期标题和任务区域的左右切换，支持任务内容与添加任务按钮跟手移动，松手后吸附到目标日期",
+    "优化下载完成后的原生灵动岛，显示“下载完成，点击安装”，展开后可直接进入系统安装器并保持前后台完成状态"
   ]
 }
