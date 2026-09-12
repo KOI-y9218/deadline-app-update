@@ -1,14 +1,20 @@
 {
-  "version": "0.5.6.1-beta4",
-  "build": 102,
-  "giteeApk": "https://gitee.com/koiyalkx/deadline_app_update/releases/download/v0.5.6.1-beta4/deadline-v0.5.6.1-beta4.apk",
-  "githubApk": "https://github.com/KOI-y9218/deadline-app/releases/download/v0.5.6.1-beta4/deadline-v0.5.6.1-beta4.apk",
-  "sha256": "8bab13ff9d764abf59772861147431444e2afb00be10839f281c94c6ec762c1d",
-  "size": 56961303,
+  "version": "0.6.0-beta1",
+  "build": 104,
+  "giteeApk": "https://gitee.com/koiyalkx/deadline_app_update/releases/download/v0.6.0-beta1/deadline-v0.6.0-beta1.apk",
+  "githubApk": "https://github.com/KOI-y9218/deadline-app/releases/download/v0.6.0-beta1/deadline-v0.6.0-beta1.apk",
+  "sha256": "a4c67f637e49e4655f9a753d44353aa4e140c90679c5b3fdd025f92ffd64a387",
+  "size": 60486939,
   "forceUpdate": false,
   "notes": [
-    "将日视图日期标题切换调整为横向推入并错开淡出、淡入，减少新旧日期文字重叠",
-    "将任务区域改为可跟手分页，左右拖动时任务内容和添加任务按钮同步移动，松手后吸附到目标日期",
-    "优化下载完成后的原生灵动岛，显示“下载完成，点击安装”，展开后可直接进入系统安装器并保持前后台完成状态"
+    "新增“日刻 AI”独立入口与对话页面",
+    "首批支持 DeepSeek 和 Xiaomi MiMo API，可使用用户自己的 API Key，并支持服务商、模型及接口地址配置",
+    "支持通过自然语言创建计划、灵活任务和 DDL，识别日期、时间、预计时长与任务分类",
+    "支持智能安排一天，可拆分并安排多个任务，自动避开固定计划和时间冲突",
+    "新增任务与日程变更预览，所有内容经用户确认后才会写入",
+    "支持本地 AI 会话记录、会话切换及历史对话续接；API Key 使用系统安全存储",
+    "优化多轮对话的上下文继承、澄清选项、输入框及失败重试体验",
+    "修复任务意图、类型、标题、共享时长和相对日期识别异常",
+    "修复多任务安排遗漏、内部 ID 暴露及确认前错误应用任务的问题"
   ]
 }
