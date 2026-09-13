@@ -3,7 +3,7 @@
   "build": 104,
   "giteeApk": "https://gitee.com/koiyalkx/deadline_app_update/releases/download/v0.6.0-beta1/deadline-v0.6.0-beta1.apk",
   "githubApk": "https://github.com/KOI-y9218/deadline-app/releases/download/v0.6.0-beta1/deadline-v0.6.0-beta1.apk",
-  "sha256": "a4c67f637e49e4655f9a753d44353aa4e140c90679c5b3fdd025f92ffd64a387",
+  "sha256": "e53318efa477d7335c5bd0410e43bd261d6be20b74bb640a8d9ad46abe3646a1",
   "size": 60486939,
   "forceUpdate": false,
   "notes": [
@@ -15,6 +15,7 @@
     "支持本地 AI 会话记录、会话切换及历史对话续接；API Key 使用系统安全存储",
     "优化多轮对话的上下文继承、澄清选项、输入框及失败重试体验",
     "修复任务意图、类型、标题、共享时长和相对日期识别异常",
-    "修复多任务安排遗漏、内部 ID 暴露及确认前错误应用任务的问题"
+    "修复多任务安排遗漏、内部 ID 暴露及确认前错误应用任务的问题",
+    "修复安装器未完成时更新状态卡住，导致再次点击下载没有进度或不会重新下载的问题"
   ]
 }
