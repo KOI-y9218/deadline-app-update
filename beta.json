@@ -2,7 +2,7 @@
   "version": "0.6.0-beta3",
   "build": 106,
   "giteeApk": "https://gitee.com/koiyalkx/deadline_app_update/releases/download/v0.6.0-beta3/deadline-v0.6.0-beta3.apk",
-  "githubApk": "https://github.com/KOI-y9218/deadline-app/releases/download/v0.6.0-beta3/deadline-v0.6.0-beta3.apk",
+  "githubApk": "https://github.com/KOI-y9218/deadline-app-update/releases/download/v0.6.0-beta3/deadline-v0.6.0-beta3.apk",
   "sha256": "DF5D36F754BB74EC51F44A9264A6A21D2FED60D5EC19BF97F295476EAC626913",
   "size": 61946888,
   "forceUpdate": false,
